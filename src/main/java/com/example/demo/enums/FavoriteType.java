@@ -10,7 +10,7 @@ import lombok.Getter;
 @AllArgsConstructor
 public enum FavoriteType {
     MOVIE("MOVIE", "影片"),
-    ACTOR("ACTOR", "女优"),
+    ACTOR("ACTOR", "演员"),
     TAG("TAG", "影片标签"),
     SERIES("SERIES", "系列番号"),
     ;
